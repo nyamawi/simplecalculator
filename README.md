@@ -1,4 +1,4 @@
-# Example
+# calculator 
 
 To run this example:
 
